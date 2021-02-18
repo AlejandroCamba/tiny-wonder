@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Tiny Wonder :)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made using React.js, TypeScript, WebGL and WebRTC to get a better feeling of what the guys at Wonder do and get a tiny grasp of the problems they encountered while building it. 
+
+And to try to get hired, of course :)
 
 ## Available Scripts
 
