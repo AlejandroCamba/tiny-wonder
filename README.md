@@ -6,7 +6,9 @@ This project was made using React.js, TypeScript, WebGL and WebRTC as an extra e
 
 This a very minimal version intended for learning purposes and just so they can see how i work, my learning style and speed.
 
-It simulates any amount of users joins directly into a room when initializing the application, no collision detection is needed to start a videoconforence.
+ It works with any amount of users but for the sake of demosntration i did a short video.
+
+It simulates any amount of users joining directly into a room when initializing the application, no collision detection is needed to start a videoconforence.
 
 # My opinion
 
