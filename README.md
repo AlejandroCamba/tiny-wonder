@@ -16,7 +16,21 @@ There's a lot of things happening from the engineering side of things, it might 
 
 # How to run
 
+1. `npm i`
+2. Go to [tiny-wonder-server](https://github.com/AlejandroCamba/tiny-wonder-server) repo, download it or clone it and `npm i` as well.
+3. `npm i -g peerjs`
+4. Open 3 different terminals and:
 
+#### In terminal 1 (client)
+ `npm start`
+
+#### In terminal 2 (server)
+ `npm start`
+ 
+#### In terminal 3 (peerjs)
+`peerjs --port 3001`
+
+go to https://localhost://3000 and open multiple windows
 
 ## Available Scripts
 
