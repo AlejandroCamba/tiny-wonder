@@ -1,5 +1,7 @@
 # Tiny Wonder :)
 
+![Tiny Wonder Demo](/readme-docs/demo.gif)
+
 I decided to do a little extra effort to get a job i really liked and here is the result.
 
 This project was made using React.js, TypeScript, WebGL and WebRTC to get a better feeling of what the guys at Wonder do and get a tiny grasp of the problems they encountered while building it. 
