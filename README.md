@@ -2,11 +2,13 @@
 
 ![Tiny Wonder Demo](/readme-docs/demo.gif)
 
-I decided to do a little extra effort to get a job i really liked and here is the result.
+This project was made using React.js, TypeScript, WebGL and WebRTC as an extra effort to get a cool job at Wonder and to get a better feeling of what the guys at Wonder do and get a tiny grasp of the problems they encountered while building it. 
 
-This project was made using React.js, TypeScript, WebGL and WebRTC to get a better feeling of what the guys at Wonder do and get a tiny grasp of the problems they encountered while building it. 
+This a very minimal version intended for learning purposes and just so they can see how i work, my learning style and speed.
 
-And to try to get hired, of course :)
+# My opinion
+
+There's a lot of things happening from the engineering side of things, it might seem like a screen with some avatars moving around but it's definitely a challenge i want to dive more into, Fast forwarding unit, sockets, peer connections, collision detection (not implemented), among a lot of other things.
 
 ## Available Scripts
 
