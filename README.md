@@ -27,7 +27,7 @@ I had the knowlodge necessary to do this project and understand almost all theor
  `npm start`
 
 #### In terminal 2 (server)
- `npm start`
+ `npm devStart`
  
 #### In terminal 3 (peerjs)
 `peerjs --port 3001`
