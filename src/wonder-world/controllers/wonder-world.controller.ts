@@ -204,5 +204,4 @@ export class WonderWorldController {
   stopMovement(user: UserAvatar) {
     user.stopMovement();
   }
-
 }

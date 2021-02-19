@@ -54,7 +54,7 @@ export class WonderWorld extends React.Component<WonderWorldProps> {
                 this.wonderWorldController.getUser.getAllCoordinates(),
                 this.props.myID
             );
-        }, 100);
+        }, 10);
     }
 
     handleClick = (e: MouseEvent) => {

@@ -9,8 +9,6 @@ export class UserAvatar {
   
   constructor(circle: CircleShape) {
     this._circle = circle;
-
-    const diameter = circle.r * 2;
     this._directionalShape = new CircleShape(circle.x + circle.r*1.2, circle.y + circle.r*1.2, circle.r/4);
   }
 
