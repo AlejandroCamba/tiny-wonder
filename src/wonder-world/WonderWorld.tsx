@@ -2,6 +2,8 @@ import React, { ReactPropTypes } from 'react';
 import { WonderWorldController } from './controllers/wonder-world.controller';
 import { Socket } from 'socket.io-client';
 
+const ROOM_ID = 17;
+
 type WonderWorldProps = {
     socket: Socket;
     myID: string | undefined;
@@ -22,7 +24,7 @@ export class WonderWorld extends React.Component<WonderWorldProps> {
         this.props.socket.emit(
             'avatar-new-entered',
             this.wonderWorldController.getUser.getAllCoordinates().circle,
-            17,
+            ROOM_ID,
             this.props.myID
         );
 
@@ -32,7 +34,7 @@ export class WonderWorld extends React.Component<WonderWorldProps> {
                 this.props.socket.emit(
                     'avatar-new-entered',
                     this.wonderWorldController.getUser.getAllCoordinates().circle,
-                    17,
+                    ROOM_ID,
                     this.props.myID
                 );
             }
@@ -50,7 +52,7 @@ export class WonderWorld extends React.Component<WonderWorldProps> {
         setInterval(() => {
             this.props.socket.emit(
                 'avatar-update',
-                17,
+                ROOM_ID,
                 this.wonderWorldController.getUser.getAllCoordinates(),
                 this.props.myID
             );
