@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#video-grid {
+  position: absolute;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 200px);
+  grid-auto-rows: 200px;
+  top: 0;
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+}
