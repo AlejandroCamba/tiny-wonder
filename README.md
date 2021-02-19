@@ -14,6 +14,8 @@ It simulates any amount of users joining directly into a room when initializing 
 
 There's a lot of things happening from the engineering side of things, it might seem like a screen with some avatars moving around but it's definitely a challenge i want to dive more into, Fast forwarding unit, sockets, peer connections, collision detection (not implemented), among a lot of other things.
 
+I had the knowlodge necessary to do this project and understand almost all theory surounding the technologies used, sockets are not foreign to me, loop rendering either since i've built plenty of games already or the Math concepts like vectors, unitary vectors, among other concepts.
+
 # How to run
 
 1. `npm i`
