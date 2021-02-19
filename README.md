@@ -6,9 +6,15 @@ This project was made using React.js, TypeScript, WebGL and WebRTC as an extra e
 
 This a very minimal version intended for learning purposes and just so they can see how i work, my learning style and speed.
 
+It simulates any amount of users joins directly into a room when initializing the application, no collision detection is needed to start a videoconforence.
+
 # My opinion
 
 There's a lot of things happening from the engineering side of things, it might seem like a screen with some avatars moving around but it's definitely a challenge i want to dive more into, Fast forwarding unit, sockets, peer connections, collision detection (not implemented), among a lot of other things.
+
+# How to run
+
+
 
 ## Available Scripts
 
