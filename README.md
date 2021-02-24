@@ -2,19 +2,11 @@
 
 ![Tiny Wonder Demo](/readme-docs/demo.gif)
 
-This project was made using React.js, TypeScript, WebGL and WebRTC as an extra effort to get a cool job at Wonder and to get a better feeling of what the guys at Wonder do and get a tiny grasp of the problems they encountered while building it. 
-
-This a very minimal version intended for learning purposes and just so they can see how i work, my learning style and speed.
+This project was made using React.js, TypeScript, WebGL and WebRTC.
 
  It works with any amount of users but for the sake of demosntration i did a short video.
 
 It simulates any amount of users joining directly into a room when initializing the application, no collision detection is needed to start a videoconforence.
-
-# My opinion
-
-There's a lot of things happening from the engineering side of things, it might seem like a screen with some avatars moving around but it's definitely a challenge i want to dive more into, Fast forwarding unit, sockets, peer connections, collision detection (not implemented), among a lot of other things.
-
-I had the knowlodge necessary to do this project and understand almost all theory surounding the technologies used, sockets are not foreign to me, loop rendering either since i've built plenty of games already or the Math concepts like vectors, unitary vectors, among other concepts.
 
 # How to run
 
